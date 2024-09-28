@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">About me project</string>
+    <string name="bio" translatable="false">As a student in computer engineering with knowledge of Kotlin,
+        C++,and data structures and algorithms, you possess a strong foundation in software
+        development and problem-solving skills.
+    Software Development: With expertise in Kotlin, C++, and algorithms, you are well-equipped for software development roles in various domains.
+Mobile Development: Your knowledge of Kotlin is valuable for Android app development, while C++ skills can be useful for performance-critical tasks.
+System Programming: Proficiency in C++ opens opportunities in system-level programming, embedded systems, and game development.
+Algorithm Engineering: Understanding data structures and algorithms prepares you for roles involving optimization, machine learning, and algorithmic problem solving.</string>
+
+</resources>
